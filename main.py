@@ -43,7 +43,7 @@ BROADCAST_BATCH = int((os.getenv("BROADCAST_BATCH") or "2000").strip()) # fetch 
 # =========================
 REQUIRED_CHANNELS = [
     {"id": "-1001583979408", "name": "Bicolink Official Channel", "url": "https://t.me/bicolinks"},
-    {"id": "-1001688830091", "name": "Bicolink Official Group", "url": "https://t.me/bicolink"},
+    {"id": "-1002611959153", "name": "Earnice Official Channel", "url": "https://t.me/earnice"},
     # maksimal 5 item
 ]
 
